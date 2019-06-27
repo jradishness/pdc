@@ -1,3 +1,7 @@
+# This is the code to parse the copied and pasted debates into 
+# individual .txt files for input to AntConc for textual analysis 
+# and word counting.
+
 import collections, re
 from collections import defaultdict
 debate = collections.defaultdict(str)
