@@ -1,0 +1,36 @@
+Coarse-Grained Tags
+Tag	Count
+
+ADJ	3
+PROPN	388
+ADP	67
+SPACE	135
+NUM	84
+PUNCT	184
+NOUN	45
+CCONJ	4
+VERB	8
+DET	6
+
+
+
+Fine-Grained Tags
+Tag	Count
+
+JJ	3
+NNP	388
+IN	67
+	131
+CD	84
+,	112
+NNS	43
+:	47
+NN	2
+CC	4
+VBZ	3
+DT	6
+HYPH	5
+-LRB-	10
+VBN	5
+-RRB-	10
+_SP	4
